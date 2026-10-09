@@ -4,7 +4,7 @@ An interactive dashboard that shows where U.S. credit stands today compared with
 
 I built it because every other project in my portfolio is a model of one piece of the credit market (an auto ABS deal, consumer loan defaults, a warehouse line, an insurer's bond portfolio). I wanted one place that shows the whole cycle those pieces sit in.
 
-**Live dashboard:** open `index.html` in any browser, or see the GitHub Pages link in the repo description.
+**Live dashboard:** https://deepangiarora.github.io/credit-cycle-monitor/
 
 ## I. What's on it
 
